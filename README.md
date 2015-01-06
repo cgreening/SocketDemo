@@ -10,4 +10,4 @@ pod install
 open SocketDemo.xcworkspace
 ```
 
-Modify the wsURL in ViewController.m to point to your server.
+If you are running your own demo server modify the wsURL in ViewController.m
